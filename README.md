@@ -6,6 +6,7 @@
 
 Backend & AI Infrastructure Engineer focused on building scalable APIs, realtime systems, and production-grade AI applications.
 
+<!--
 ---
 
 ## 🚀 Currently Building
@@ -16,7 +17,7 @@ Backend & AI Infrastructure Engineer focused on building scalable APIs, realtime
 * 📡 RAG pipelines & AI orchestration systems
 
 ---
-
+-->
 ## 🛠 Tech Stack
 
 ### Backend
